@@ -1,0 +1,582 @@
+{
+    "data": [
+        {
+            "author_id": "1799086070866567168",
+            "conversation_id": "2119719750347735110",
+            "created_at": "2026-11-09T09:12:25.000Z",
+            "edit_history_post_ids": [
+                "2119719750347735110"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 12,
+                        "tag": "18promax"
+                    }
+                ]
+            },
+            "id": "2119719750347735110",
+            "lang": "zh",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 23,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 0
+            },
+            "text": "每天拿着一万多块钱出门 #18promax"
+        },
+        {
+            "author_id": "50890585",
+            "conversation_id": "2119552951568236590",
+            "created_at": "2026-11-08T22:12:53.000Z",
+            "edit_history_post_ids": [
+                "2119553771751748048"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 20,
+                        "tag": "iPhoneDuo"
+                    },
+                    {
+                        "end": 147,
+                        "start": 138,
+                        "tag": "17ProMax"
+                    },
+                    {
+                        "end": 160,
+                        "start": 151,
+                        "tag": "18ProMax"
+                    }
+                ]
+            },
+            "id": "2119553771751748048",
+            "in_reply_to_user_id": "50890585",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 1343,
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 2,
+                "repost_count": 0
+            },
+            "referenced_posts": [
+                {
+                    "id": "2119552951568236590",
+                    "type": "replied_to"
+                }
+            ],
+            "text": "I prefer having the #iPhoneDuo singular device over 2 devices that I really want to perform the same functions. If not Duo I’d go for the #17ProMax or #18ProMax phone pinky be darned."
+        },
+        {
+            "author_id": "145270439",
+            "conversation_id": "2118944165384069199",
+            "created_at": "2026-11-07T05:50:31.000Z",
+            "edit_history_post_ids": [
+                "2118944165384069199"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 123,
+                        "start": 114,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "1664154898596876289",
+                        "start": 99,
+                        "username": "idumbaikarthi"
+                    }
+                ]
+            },
+            "id": "2118944165384069199",
+            "lang": "ta",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 34,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 0
+            },
+            "text": "உழைச்சு வாங்கற பொருள் என்னைக்குமே நிலைக்கும்டா தம்பி… கடைசியில நீயுமா ச்சாரினு கேக்க வச்சிட்டுயேடா @idumbaikarthi #18ProMax"
+        },
+        {
+            "author_id": "1857306542007357440",
+            "conversation_id": "2118722810004508805",
+            "created_at": "2026-11-06T15:10:56.000Z",
+            "edit_history_post_ids": [
+                "2118722810004508805"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 19,
+                        "tag": "Mammootty"
+                    },
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "IphoneDuo"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986158726431227904",
+                        "start": 3,
+                        "username": "KeralaBxOffce"
+                    },
+                    {
+                        "end": 133,
+                        "id": "1197222304478048256",
+                        "start": 123,
+                        "username": "mammukkka"
+                    }
+                ]
+            },
+            "id": "2118722810004508805",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 15
+            },
+            "referenced_posts": [
+                {
+                    "id": "2113595043923779881",
+                    "type": "reposted"
+                }
+            ],
+            "text": "RT @KeralaBxOffce: #Mammootty Just Updated to #IphoneDuo 🔥 Last Month He Bought #18ProMax too !! \n\nFirst Sale in Kerala to @mammukkka from…"
+        },
+        {
+            "author_id": "1744254897065766913",
+            "conversation_id": "2118721769901035913",
+            "created_at": "2026-11-06T15:06:48.000Z",
+            "edit_history_post_ids": [
+                "2118721769901035913"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 19,
+                        "tag": "Mammootty"
+                    },
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "IphoneDuo"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986158726431227904",
+                        "start": 3,
+                        "username": "KeralaBxOffce"
+                    },
+                    {
+                        "end": 133,
+                        "id": "1197222304478048256",
+                        "start": 123,
+                        "username": "mammukkka"
+                    }
+                ]
+            },
+            "id": "2118721769901035913",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 15
+            },
+            "referenced_posts": [
+                {
+                    "id": "2113595043923779881",
+                    "type": "reposted"
+                }
+            ],
+            "text": "RT @KeralaBxOffce: #Mammootty Just Updated to #IphoneDuo 🔥 Last Month He Bought #18ProMax too !! \n\nFirst Sale in Kerala to @mammukkka from…"
+        },
+        {
+            "author_id": "1856943766503915521",
+            "conversation_id": "2118719729967808852",
+            "created_at": "2026-11-06T14:58:42.000Z",
+            "edit_history_post_ids": [
+                "2118719729967808852"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 19,
+                        "tag": "Mammootty"
+                    },
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "IphoneDuo"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986158726431227904",
+                        "start": 3,
+                        "username": "KeralaBxOffce"
+                    },
+                    {
+                        "end": 133,
+                        "id": "1197222304478048256",
+                        "start": 123,
+                        "username": "mammukkka"
+                    }
+                ]
+            },
+            "id": "2118719729967808852",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 15
+            },
+            "referenced_posts": [
+                {
+                    "id": "2113595043923779881",
+                    "type": "reposted"
+                }
+            ],
+            "text": "RT @KeralaBxOffce: #Mammootty Just Updated to #IphoneDuo 🔥 Last Month He Bought #18ProMax too !! \n\nFirst Sale in Kerala to @mammukkka from…"
+        },
+        {
+            "author_id": "1421406421703221258",
+            "conversation_id": "2118714779908923626",
+            "created_at": "2026-11-06T14:39:02.000Z",
+            "edit_history_post_ids": [
+                "2118714779908923626"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 19,
+                        "tag": "Mammootty"
+                    },
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "IphoneDuo"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986158726431227904",
+                        "start": 3,
+                        "username": "KeralaBxOffce"
+                    },
+                    {
+                        "end": 133,
+                        "id": "1197222304478048256",
+                        "start": 123,
+                        "username": "mammukkka"
+                    }
+                ]
+            },
+            "id": "2118714779908923626",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 1,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 15
+            },
+            "referenced_posts": [
+                {
+                    "id": "2113595043923779881",
+                    "type": "reposted"
+                }
+            ],
+            "text": "RT @KeralaBxOffce: #Mammootty Just Updated to #IphoneDuo 🔥 Last Month He Bought #18ProMax too !! \n\nFirst Sale in Kerala to @mammukkka from…"
+        },
+        {
+            "author_id": "1396344665113174018",
+            "conversation_id": "2118712235165958215",
+            "created_at": "2026-11-06T14:28:55.000Z",
+            "edit_history_post_ids": [
+                "2118712235165958215"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 19,
+                        "tag": "Mammootty"
+                    },
+                    {
+                        "end": 56,
+                        "start": 46,
+                        "tag": "IphoneDuo"
+                    },
+                    {
+                        "end": 89,
+                        "start": 80,
+                        "tag": "18ProMax"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986158726431227904",
+                        "start": 3,
+                        "username": "KeralaBxOffce"
+                    },
+                    {
+                        "end": 133,
+                        "id": "1197222304478048256",
+                        "start": 123,
+                        "username": "mammukkka"
+                    }
+                ]
+            },
+            "id": "2118712235165958215",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 15
+            },
+            "referenced_posts": [
+                {
+                    "id": "2113595043923779881",
+                    "type": "reposted"
+                }
+            ],
+            "text": "RT @KeralaBxOffce: #Mammootty Just Updated to #IphoneDuo 🔥 Last Month He Bought #18ProMax too !! \n\nFirst Sale in Kerala to @mammukkka from…"
+        },
+        {
+            "author_id": "126276792",
+            "conversation_id": "2118527290946757074",
+            "created_at": "2026-11-06T02:14:01.000Z",
+            "edit_history_post_ids": [
+                "2118527290946757074"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 166,
+                        "start": 158,
+                        "tag": "glacier"
+                    },
+                    {
+                        "end": 176,
+                        "start": 167,
+                        "tag": "18promax"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.x.com/2iXLjSHCtN",
+                        "end": 200,
+                        "expanded_url": "https://x.com/fragilenicka/status/2118527290946757074/photo/1",
+                        "media_key": "3_2118527281983565824",
+                        "start": 177,
+                        "url": "https://t.co/2iXLjSHCtN"
+                    }
+                ]
+            },
+            "id": "2118527290946757074",
+            "lang": "en",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 3,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "repost_count": 0
+            },
+            "text": "Before, I can’t buy the latest one. Until I bought the 16 Pro, after its launch, and now God made me experienced, the pre-order. Got it on midnight launch! 💙 #glacier #18promax https://t.co/2iXLjSHCtN"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "id": "1799086070866567168",
+                "name": "dan dan",
+                "public_metrics": {
+                    "followers_count": 877,
+                    "following_count": 0,
+                    "like_count": 1089,
+                    "listed_count": 1,
+                    "media_count": 6060,
+                    "post_count": 13493
+                },
+                "username": "dandanshanshan",
+                "verified": false
+            },
+            {
+                "id": "50890585",
+                "name": "Erica Griffin",
+                "public_metrics": {
+                    "followers_count": 55942,
+                    "following_count": 169,
+                    "like_count": 251,
+                    "listed_count": 481,
+                    "media_count": 2221,
+                    "post_count": 18978
+                },
+                "username": "iAm_erica",
+                "verified": false
+            },
+            {
+                "id": "145270439",
+                "name": "Guhayavarman",
+                "public_metrics": {
+                    "followers_count": 462,
+                    "following_count": 156,
+                    "like_count": 324,
+                    "listed_count": 6,
+                    "media_count": 1039,
+                    "post_count": 7256
+                },
+                "username": "guhayavarman",
+                "verified": false
+            },
+            {
+                "id": "1857306542007357440",
+                "name": "Mahi 💀",
+                "public_metrics": {
+                    "followers_count": 618,
+                    "following_count": 573,
+                    "like_count": 19159,
+                    "listed_count": 1,
+                    "media_count": 140,
+                    "post_count": 20723
+                },
+                "username": "b78035546",
+                "verified": false
+            },
+            {
+                "id": "1744254897065766913",
+                "name": "X",
+                "public_metrics": {
+                    "followers_count": 921,
+                    "following_count": 865,
+                    "like_count": 31014,
+                    "listed_count": 0,
+                    "media_count": 290,
+                    "post_count": 37157
+                },
+                "username": "Jack__1234567",
+                "verified": false
+            },
+            {
+                "id": "1856943766503915521",
+                "name": "Rohith 369",
+                "public_metrics": {
+                    "followers_count": 609,
+                    "following_count": 549,
+                    "like_count": 19418,
+                    "listed_count": 2,
+                    "media_count": 141,
+                    "post_count": 20888
+                },
+                "username": "369_rohith",
+                "verified": false
+            },
+            {
+                "id": "1421406421703221258",
+                "name": "kuttettan",
+                "public_metrics": {
+                    "followers_count": 1184,
+                    "following_count": 783,
+                    "like_count": 92677,
+                    "listed_count": 1,
+                    "media_count": 1182,
+                    "post_count": 179020
+                },
+                "username": "kuttettan369",
+                "verified": false
+            },
+            {
+                "id": "1396344665113174018",
+                "name": "Robin T⚡",
+                "public_metrics": {
+                    "followers_count": 1173,
+                    "following_count": 801,
+                    "like_count": 87150,
+                    "listed_count": 1,
+                    "media_count": 1163,
+                    "post_count": 141566
+                },
+                "username": "Robin__T",
+                "verified": false
+            },
+            {
+                "id": "126276792",
+                "name": "danι",
+                "public_metrics": {
+                    "followers_count": 596,
+                    "following_count": 82,
+                    "like_count": 758,
+                    "listed_count": 0,
+                    "media_count": 570,
+                    "post_count": 15327
+                },
+                "username": "fragilenicka",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "2119719750347735110",
+        "next_token": "b26v89c19zqg8o3juzlyxlby1wgeaciwdlxhfi86esvb1",
+        "oldest_id": "2118527290946757074",
+        "result_count": 9
+    }
+}
